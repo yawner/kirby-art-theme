@@ -1,0 +1,42 @@
+Title: Home
+
+----
+
+Featured: multipleslider
+
+----
+
+Cover: 
+
+- 01.jpg
+
+----
+
+Intro: Welcome to Enterprise !
+
+----
+
+Text: 
+
+Non ergo erunt homines deliciis diffluentes audiendi, si quando de amicitia, quam nec usu nec ratione habent cognitam, disputabunt. Nam quis est, pro deorum fidem atque hominum! qui velit, ut neque diligat quemquam nec ipse ab ullo diligatur, circumfluere omnibus copiis atque in omnium rerum abundantia vivere? Haec enim est tyrannorum vita nimirum, in qua nulla fides, nulla caritas, nulla stabilis benevolentiae potest esse fiducia, omnia semper suspecta atque sollicita, nullus locus amicitiae.
+
+Adolescebat autem obstinatum propositum erga haec et similia multa scrutanda, stimulos admovente regina, quae abrupte mariti fortunas trudebat in exitium praeceps, cum eum potius lenitate feminea ad veritatis humanitatisque viam reducere utilia suadendo deberet, ut in Gordianorum actibus factitasse Maximini truculenti illius imperatoris rettulimus coniugem.
+
+----
+
+Buttons: 
+
+- 
+  title: Demo
+  link: '#section-services'
+- 
+  title: Download
+  link: https://sellfy.com/p/JAk9/
+
+----
+
+Headertitle: Welcome to Enterprise !
+
+----
+
+Headersubtitle: Enterprise is a professionnal theme running with Kirby CMS and Bootstrap

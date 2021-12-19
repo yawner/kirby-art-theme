@@ -1,0 +1,36 @@
+title: Home
+
+options:
+  url: false
+  status: false
+  delete: false
+
+columns:
+    - width: 2/3
+      sections:
+        images:
+          type: files
+          layout: cards
+          template: image
+          info: "{{ file.dimensions }}"
+          image:
+            ratio: 5/4
+            cover: true
+          min: 1
+          size: small
+    - width: 1/3
+      fields:
+        featured:
+          label: Featured
+          type: select
+          options:
+            shuffle: Shuffle
+            slider: Slider
+            multipleslider: Multiple Slider
+            picture: Picture
+        cover:
+          type: files
+          multiple: false
+
+
+

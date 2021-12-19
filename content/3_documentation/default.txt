@@ -1,0 +1,34 @@
+Title: Documentation
+
+----
+
+Description: 
+
+## Installation
+Install Kirby with the (link: https://getkirby.com/docs/guide/quickstart text: Starterkit). Kirby is a lightweight, flexible and file-based CMS made by Bastian Allgeier. For more informations about installation you should look at (link: https://getkirby.com/docs/installation text: https://getkirby.com/docs/installation).
+Remove the default /assets, /content and /site folders and replace them with the downloaded ones from SLIDER.
+Once the upload is finished, your (link: / text: website) is ready for use. 
+
+## License
+Please remember, that Kirby itself is not for free. If you use this theme for a public release, don't forget to buy a (link: https://getkirby.com/buy text: license for Kirby)!
+
+## Managing site (panel)
+The panel is the site management interface to configure your site, add or delete content. Go to (link: panel text: panel) and fill username and password.
+
+### Quick formating
+####1. Setting up your website (name, style, buttons)
+In (link: /panel text: Menu > Site), complete the General Settings and customize the Style Settings (font family, colors). The last section (Advanced Styles Settings) can be left empty.
+#### 2. Setting up your contents
+In (link: /panel text: Menu > Site), the "Pages" section allows you to create, edit and delete pages. 
+SLIDER come with three different page layouts: "Default page", "Project page" and "Projects page". "Default page" is the default layout for text, "Project page" allows a combination of text, images and captions. "Projects page" allow you to group "Project pages".
+
+
+### Advanced Formatting
+#### 1. CSS Styles
+In (link: /panel text: Menu > Site), the "Advanced Styles Settings" section allows you to enter custom CSS directly :
+```
+html {font-size: 110%; }
+```
+
+### More
+If you need assistance with installing, customizing the design or the functionalities, or for more informations please contact me at  (email: oliviergassies@gmail.com text: oliviergassies@gmail.com).

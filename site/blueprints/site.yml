@@ -1,0 +1,55 @@
+title: Site
+
+tabs:
+  content:
+    label: Content
+    columns:
+        - width: 1/1
+          sections:
+            pages:
+              type: pages
+              create:
+                - Default
+                - Projects
+  generalsettings:
+    label: General Settings
+    fields:
+      title:
+        label: Title
+        type:  text
+      author:
+        label: Author
+        type:  text
+      description:
+        label: Description
+        type:  text
+      copyright:
+        label: Copyright
+        type:  text        
+  stylesettings:
+    label: Style Settings
+    fields:
+          primarycolor:
+            label: Primary color
+            type:  text
+            width: 1/2
+          secondarycolor:
+            label: Secondary color
+            type:  text
+            width: 1/2
+          font:
+            label: Font
+            type:  text
+  advancedstylesettings:
+    label: Advanced Style Settings
+    fields:
+      css:
+        label: Custom CSS
+        type:  textarea
+
+
+      
+      
+      
+
+

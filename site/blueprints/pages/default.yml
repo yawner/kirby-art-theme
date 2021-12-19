@@ -1,0 +1,17 @@
+title: Page
+
+status:
+  draft:
+    label: Draft
+    text: The page is still in draft mode. It can only be seen by editors with panel access.
+  unlisted:
+    label: In Review
+    text: The page is not listed in the main menu
+  listed:
+    label: Published
+    text: The page is listed in the main menu
+
+fields:
+  description:
+    label: Text
+    type:  textarea

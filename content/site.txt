@@ -1,0 +1,33 @@
+Title: Trevor Jahner
+
+----
+
+Author: Olivier Gassies
+
+----
+
+Description: SLIDER is a theme made for artists, running with Kirby CMS 3 and Bootstrap
+
+----
+
+Copyright: © 2019
+
+----
+
+Primarycolor: #555555
+
+----
+
+Secondarycolor: #999999
+
+----
+
+Font: 
+
+----
+
+Css:
+
+img {
+  border: 1px solid white;
+}
