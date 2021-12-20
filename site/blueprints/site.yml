@@ -22,10 +22,7 @@ tabs:
         type:  text
       description:
         label: Description
-        type:  text
-      copyright:
-        label: Copyright
-        type:  text        
+        type:  text     
   stylesettings:
     label: Style Settings
     fields:

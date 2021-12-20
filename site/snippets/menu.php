@@ -10,7 +10,7 @@
             <span class="icon-bar"></span>
           </button>
           <!-- Tittle -->
-          <a class="navbar-brand" href="<?= url() ?>" rel="home"><?= $site->title()->upper()->html() ?></a>
+          <a class="navbar-brand" href="<?= url() ?>" rel="home"><?= $site->title()->html() ?></a>
         </div>
 
         <div id="navbar" class="navbar-collapse collapse">

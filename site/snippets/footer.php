@@ -1,6 +1,6 @@
     <div class="col-sm-12 footer">
       <div class="col-xs-6">
-        <?php echo $site->copyright() ?> / <a href="http://slider.oliviergassies.fr">Made with SLIDER</a>
+        &copy;<?php echo date("Y"); ?>
       </div>
       <div class="col-xs-6 text-right">
         <a href="#" class="back-to-top scrollup" title="Back to Top" data-toggle="tooltip" data-placement="top">Back to top</a>
@@ -32,7 +32,7 @@ $(document).ready(function () {
     $('.scrollup').click(function () {
         $("html, body").animate({
             scrollTop: 0
-        }, 600);
+        }, 0);
         return false;
     });
 
@@ -44,8 +44,9 @@ $(document).ready(function () {
 <script type="text/javascript">
 // init Masonry
 var $grid = $('.grid').masonry({
-  // Masonry options...
-  itemSelector: '.grid-item', 
+    // Masonry options...
+    itemSelector: '.grid-item',
+    transitionDuration: 0 
 });
 // layout Masonry after each image loads
 $grid.imagesLoaded().progress( function() {
@@ -60,9 +61,7 @@ $grid.infiniteScroll({
   status: '.scroller-status',
   hideNav: '.pagination',
   history: false,
-  outlayer: msnry,
-  /*button: '.view-more-button',
-  scrollThreshold: false,*/
+  outlayer: msnry
 });
 </script>
 
